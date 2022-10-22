@@ -1,6 +1,6 @@
 ### 김영빈
--전주온빛중학교 인공지능부 1기 프로그래밍 담당.\n
--호남제일고등학교 인공지능부 1기 기장.
+##-전주온빛중학교 인공지능부 1기 프로그래밍 담당.  
+##-호남제일고등학교 인공지능부 1기 기장.
 
 <!--
 **Nekonic/Nekonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekonic&theme=radical)](https://github.com/Nekonic/Nekonic)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&langs_count=8)](https://github.com/Nekonic/Nekonic)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nekonic)](https://github.com/anuraghazra/github-readme-stats)
