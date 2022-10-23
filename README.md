@@ -1,6 +1,6 @@
 # 김영빈
-## -전주온빛중학교 인공지능부 1기 프로그래밍 담당.  
-## -호남제일고등학교 인공지능부 1기 기장.
+## - 전주온빛중학교 인공지능부 1기 프로그래밍 담당  
+## - 호남제일고등학교 인공지능부 1기 기장
 
 <!--
 **Nekonic/Nekonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
