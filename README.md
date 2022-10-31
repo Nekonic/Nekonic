@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+skill  
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=scss,html,ruby&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
