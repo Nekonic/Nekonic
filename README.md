@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 <h3 align = "center"<b>Baekjoon</b></h3>
 <p align = "center">
     <img src = "http://mazassumnida.wtf/api/generate_badge?boj=funiculi_funicula"/> &nbsp
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=scss,html,ruby&layout=compact&theme=github_dark"/>
+</p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=scss,html,ruby&layout=compact&theme=github_dark"/>
 </p>
