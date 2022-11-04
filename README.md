@@ -17,5 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=funiculi_funicula)](https://solved.ac/funiculi_funicula)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=scss,html,ruby&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align = "center"<b>Skills</b></h3>
+<p align = "center">
+    <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
+</p>
+<br>
+<h3 align = "center"<b>Baekjoon</b></h3>
+<p align = "center">
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=funiculi_funicula)](https://solved.ac/funiculi_funicula) &nbsp
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=scss,html,ruby&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
