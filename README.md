@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align = "center"<b>Baekjoon</b></h3>
 <p align = "center">
-  <img src = "http://mazassumnida.wtf/api/generate_badge?boj=funiculi_funicula"/> &nbsp
+  <img src = "http://mazassumnida.wtf/api/generate_badge?boj=funiculi_funicula&theme=warm"/> &nbsp
   <img src = "https://mazandi.herokuapp.com/api?handle=funiculi_funicula&theme=warm"/>
 </p>
 <br>
