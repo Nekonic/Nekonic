@@ -1,7 +1,7 @@
 # 김영빈
 ## - 전주온빛중학교 인공지능부 1기 프로그래밍 담당  
 ## - 호남제일고등학교 인공지능부 1기 기장
-
+## - 2022 미래교육 해커톤 SW·AI교육 창의캠프 고등부 1위
 <!--
 **Nekonic/Nekonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
