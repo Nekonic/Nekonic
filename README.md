@@ -1,7 +1,7 @@
 <!--# 김영빈
 ## - 전주온빛중학교 인공지능부 1기 프로그래밍 담당  
 ## - 호남제일고등학교 인공지능부 1기 기장
-## - 2022 미래교육 해커톤 SW·AI교육 창의캠프 고등부 1위
+## - 2025 우석대학교 정보보안학과 입학
 -->
 <!--
 **Nekonic/Nekonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <br>
 <h3 align = "center"<b>Github</b></h3>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=scss,css,html,ruby,HLSL,ShaderLab,JavaScript&layout=compact&theme=github_dark"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=scss,css,html,ruby,HLSL,ShaderLab,JavaScript,Jupyter Notebook&layout=compact&theme=github_dark"/>
 </p>
