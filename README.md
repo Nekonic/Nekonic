@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <br>
 <h3 align = "center"<b>Github</b></h3>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=scss,css,html,ruby,HLSL,ShaderLab,JavaScript,Jupyter Notebook&layout=compact&theme=github_dark"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&hide=Jupyter%20Notebook,scss,css,html,ruby,HLSL,ShaderLab,JavaScript&layout=compact&theme=github_dark"/>
 </p>
