@@ -58,7 +58,7 @@
 
 <br>
 
-### 🚀 Key Projects
+## 🚀 Key Projects
 
 | Project Name | Description & Tech Stack |
 | :--- | :--- |
@@ -71,18 +71,79 @@
 
 <br>
 
-### 🏆 Honors & Awards
+## 🏆 Honors & Awards
 
-| Year.Month | Award | Detail | Evidence |
-| :---: | :--- | :--- | :---: |
-| **2025.11** | **제7회 우석 컴퓨팅사고 창작대회** | **대상** (45팀 중 1위)| [📸](https://www.woosuk.ac.kr/main/?menu=198&sfv=subject&subject=%EC%BB%B4%ED%93%A8%ED%8C%85&mode=view&no=363742) [📁](https://github.com/Nekonic/WCMS) [📄](2025/컴퓨팅사고대회.pdf) |
-| **2025.07** | **KUCIS CTF** | 3 Solved | [📄](2025/KUCIS CTF 참여확인증.pdf) |
-| **2023.12** | **SW·AI 창의 아이디어 공모전** | **장려상** (285명 중 4위) | [📄](2023/IOT와 함께하는 지능형 에너지 관리 시스템.pdf) |
-| **2023.11** | **호남제일고 일본문화탐구보고회** | **은상** (163명 중 2위) | [📄](2023/2023 일본문화탐구보고회.pdf) |
-| **2023.05** | **한국정보올림피아드 (KOI)** | 상위 37% |  |
-| **2022.12** | **호남제일고 수학탐구발표회** | **동상** (73명 중 3위) | |
-| **2022.11** | **전라북도 해커톤 SW·AI 창의캠프** | **1위 (전라북도 교육청)** | |
-
+<table style="width: 100%; border-collapse: collapse; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
+  <thead>
+    <tr style="background-color: #161b22; border-bottom: 2px solid #30363d;">
+      <th style="padding: 12px; text-align: center; width: 15%;">Year.Month</th>
+      <th style="padding: 12px; text-align: left; width: 40%;">Award Name</th>
+      <th style="padding: 12px; text-align: left; width: 30%;">Detail</th>
+      <th style="padding: 12px; text-align: center; width: 15%;">Evidence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- 2025.11 우석대 대회 -->
+    <tr style="border-bottom: 1px solid #30363d;">
+      <td style="padding: 12px; text-align: center;">2025.11</td>
+      <td style="padding: 12px;"><b>제7회 우석 컴퓨팅사고 창작대회</b></td>
+      <td style="padding: 12px;">대상 (45팀 중 1위)</td>
+      <td style="padding: 12px; text-align: center; font-size: 1.2em;">
+        <a href="https://www.woosuk.ac.kr/main/?menu=198&sfv=subject&subject=%EC%BB%B4%ED%93%A8%ED%8C%85&mode=view&no=363742" target="_blank" title="Photo">📸</a>&nbsp;
+        <a href="https://github.com/Nekonic/WCMS" target="_blank" title="Repository">📁</a>&nbsp;
+        <a href="/2025/컴퓨팅사고대회.pdf" target="_blank" title="PDF Document">📄</a>
+      </td>
+    </tr>
+    <!-- 2025.07 KUCIS CTF -->
+    <tr style="border-bottom: 1px solid #30363d;">
+      <td style="padding: 12px; text-align: center;">2025.07</td>
+      <td style="padding: 12px;"><b>KUCIS CTF</b></td>
+      <td style="padding: 12px;">본선 3 Solved</td>
+      <td style="padding: 12px; text-align: center; font-size: 1.2em;">
+        <a href="2025/KUCIS CTF 참여확인증.pdf" target="_blank" title="PDF Document">📄</a>
+      </td>
+    </tr>
+    <!-- 2023.12 SW AI 공모전 -->
+    <tr style="border-bottom: 1px solid #30363d;">
+      <td style="padding: 12px; text-align: center;">2023.12</td>
+      <td style="padding: 12px;"><b>SW·AI 창의 아이디어 공모전</b></td>
+      <td style="padding: 12px;">장려상 (285명 중 4위)</td>
+      <td style="padding: 12px; text-align: center; font-size: 1.2em;">
+        <a href="2023/IOT와 함께하는 지능형 에너지 관리 시스템.pdf" target="_blank" title="PDF Document">📄</a>
+      </td>
+    </tr>
+    <!-- 2023.11 호남제일고 일본문화 -->
+    <tr style="border-bottom: 1px solid #30363d;">
+      <td style="padding: 12px; text-align: center;">2023.11</td>
+      <td style="padding: 12px;"><b>호남제일고 일본문화탐구보고회</b></td>
+      <td style="padding: 12px;">은상 (163명 중 2위)</td>
+      <td style="padding: 12px; text-align: center; font-size: 1.2em;">
+        <a href="2023/2023 일본문화탐구보고회.pdf" target="_blank" title="PDF Document">📄</a>
+      </td>
+    </tr>
+    <!-- 2023.05 정보올림피아드 -->
+    <tr style="border-bottom: 1px solid #30363d;">
+      <td style="padding: 12px; text-align: center;">2023.05</td>
+      <td style="padding: 12px;"><b>한국정보올림피아드 (KOI)</b></td>
+      <td style="padding: 12px;">상위 37%</td>
+      <td style="padding: 12px; text-align: center;">-</td>
+    </tr>
+    <!-- 2022.12 수학탐구발표회 -->
+    <tr style="border-bottom: 1px solid #30363d;">
+      <td style="padding: 12px; text-align: center;">2022.12</td>
+      <td style="padding: 12px;"><b>호남제일고 수학탐구발표회</b></td>
+      <td style="padding: 12px;">동상 (73명 중 3위)</td>
+      <td style="padding: 12px; text-align: center;">-</td>
+    </tr>
+    <!-- 2022.11 전북 해커톤 -->
+    <tr style="border-bottom: 1px solid #30363d;">
+      <td style="padding: 12px; text-align: center;">2022.11</td>
+      <td style="padding: 12px;"><b>전라북도 해커톤 SW·AI 창의캠프</b></td>
+      <td style="padding: 12px;">1위 (전라북도 교육청)</td>
+      <td style="padding: 12px; text-align: center;">-</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
