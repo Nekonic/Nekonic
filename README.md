@@ -63,7 +63,7 @@
 | Project Name | Description & Tech Stack |
 | :--- | :--- |
 | **[Woosuk Discord Notice](https://github.com/Nekonic/woosuk-discord-notice)** | **AI 기반 학사 공지 요약 봇**<br>대학교 홈페이지 공지사항을 크롤링하고 AI로 핵심 내용을 요약하여 디스코드로 전송합니다.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) |
-| **[WCMS](https://github.com/Nekonic/WCMS)** | **실습실 PC 중앙 관리 시스템**<br>학교 실습실의 다수 PC를 웹 인터페이스를 통해 효율적으로 제어하고 관리하는 솔루션입니다.<br>![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white) |
+| **[WCMS](https://github.com/Nekonic/WCMS)** | **실습실 PC 중앙 관리 시스템**<br>학교 실습실의 다수 PC를 웹 인터페이스를 통해 효율적으로 제어하고 관리하는 솔루션입니다.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  |
 | **[Mineconomy](https://github.com/Nekonic/Mineconomy)** | **마인크래프트 실물 경제 시스템 플러그인**<br>게임 내에서 회사 설립, 주식 상장 및 거래 등 실제 경제 활동을 모사한 Paper 기반 플러그인입니다.<br>![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=flat-square&logo=minecraft&logoColor=white) |
 | **[PI WOL](https://github.com/Nekonic/PI_WOL)** | **라즈베리파이 기반 웹 WOL 시스템**<br>Flask 웹 서버를 구축하여 외부망에서도 내부망의 PC를 원격 부팅할 수 있는 시스템입니다.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) |
 | **[Physics-Pi](https://github.com/Nekonic/Physics-Pi)** | **물리 엔진 기반 파이(π) 계산 시뮬레이션**<br>유니티의 물리 충돌 엔진을 활용하여 3Blue1Brown의 동영상을 시각적으로 구현했습니다.<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
@@ -73,14 +73,16 @@
 
 ### 🏆 Honors & Awards
 
-| Year.Month | Award | Detail |
-| :---: | :--- | :--- |
-| **2025.07** | **KUCIS CTF** | 본선 문제 3 Solved |
-| **2023.05** | **한국정보올림피아드 (KOI)** | 상위 37% |
-| **2022.12** | **SW·AI 창의 아이디어 공모전** | **장려상** (285명 중 4위) |
-| **2022.12** | **호남제일고 수학탐구발표회** | **동상** (73명 중 3위) |
-| **2022.11** | **전라북도 해커톤 SW·AI 창의캠프** | **1위 (전라북도 교육청)** |
-| **2022.11** | **호남제일고 일본문화탐구보고회** | **은상** (163명 중 2위) |
+| Year.Month | Award | Detail | Evidence |
+| :---: | :--- | :--- | :--- |
+| **2025.11** | **제7회 우석 컴퓨팅사고 창작대회** | **대상** (45팀 중 1위)| [📸](https://www.woosuk.ac.kr/main/?menu=198&sfv=subject&subject=%EC%BB%B4%ED%93%A8%ED%8C%85&mode=view&no=363742) [📁](https://github.com/Nekonic/WCMS) |
+| **2025.07** | **KUCIS CTF** | 3 Solved |  |
+| **2023.12** | **SW·AI 창의 아이디어 공모전** | **장려상** (285명 중 4위) | |
+| **2023.11** | **호남제일고 일본문화탐구보고회** | **은상** (163명 중 2위) | |
+| **2023.05** | **한국정보올림피아드 (KOI)** | 상위 37% | |
+| **2022.12** | **호남제일고 수학탐구발표회** | **동상** (73명 중 3위) | |
+| **2022.11** | **전라북도 해커톤 SW·AI 창의캠프** | **1위 (전라북도 교육청)** | |
+
 
 <br>
 
