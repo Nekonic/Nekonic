@@ -140,7 +140,9 @@
       <td style="padding: 12px; text-align: center;">2022.11</td>
       <td style="padding: 12px;"><b>전라북도 해커톤 SW·AI 창의캠프</b></td>
       <td style="padding: 12px;">1위 (전라북도 교육청)</td>
-      <td style="padding: 12px; text-align: center;">-</td>
+      <td style="padding: 12px; text-align: center; font-size: 1.2em;">
+        <a href="https://school.jbedu.kr/no1/M010402/view/5323022" target="_blank" title="Photo">📸</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -154,8 +156,11 @@
   - 정보보안학과 2학년 재학
   - 정보보안 동아리 **APS** 부회장 (서버 구축 및 관리 담당)
 - **Honam Jeil High School** (2022 ~ 2024)
-  - 인공지능부 1기 기장 (동아리 웹서버 구축/운영, 스마트팜 프로젝트 리딩)
-  - 인공지능 로봇캠프 수료 (24시간, OpenCV/Perceptron 활용)
+  - 인공지능부 1기 기장
+    - 동아리 웹서버 구축/운영, 스마트팜 프로젝트 리딩
+    - [2023 청학제](https://school.jbedu.kr/no1/M010402/view/5759665)
+    - [2022 청학제](https://school.jbedu.kr/no1/M010402/view/5331894)
+  - [인공지능 로봇캠프 수료](https://school.jbedu.kr/no1/M010402/view/5618102) (24시간, OpenCV/Perceptron 활용)
 - **Jeonju Onbit Middle School** (2019 ~ 2021)
   - 인공지능부 1기 프로그래밍 담당 (Arduino 개발)
 
