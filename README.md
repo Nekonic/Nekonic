@@ -168,9 +168,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nekonic&show_icons=true&theme=dark&bg_color=0D1117&title_color=2EFF6E&icon_color=2EFF6E&text_color=ffffff&hide_border=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nekonic&show_icons=true&theme=dark&bg_color=0D1117&title_color=2EFF6E&icon_color=2EFF6E&text_color=ffffff&hide_border=true" height="150" alt="stats graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonic&layout=compact&theme=dark&bg_color=0D1117&title_color=2EFF6E&icon_color=2EFF6E&text_color=ffffff&hide=Jupyter%20Notebook,scss,css,html,ruby,HLSL,ShaderLab,JavaScript&hide_border=true" height="150" alt="languages graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nekonic&layout=compact&theme=dark&bg_color=0D1117&title_color=2EFF6E&icon_color=2EFF6E&text_color=ffffff&hide=Jupyter%20Notebook,scss,css,html,ruby,HLSL,ShaderLab,JavaScript&hide_border=true" height="150" alt="languages graph" />
 
 <br>
 
