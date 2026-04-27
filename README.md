@@ -83,6 +83,15 @@
     </tr>
   </thead>
   <tbody>
+    <!-- 2026.4 핵태온 세종 -->
+    <tr style="border-bottom: 1px solid #30363d;">
+      <td style="padding: 12px; text-align: center;">2026.4</td>
+      <td style="padding: 12px;"><b>핵테온 세종</b></td>
+      <td style="padding: 12px;">beginnerA 4 Solve</td>
+      <td style="padding: 12px; text-align: center; font-size: 1.2em;">
+        <a href="/2026/[beginnerA][1q2w3e4r]_writeup" target="_blank" title="PDF Document">📄</a>
+      </td>
+    </tr>
     <!-- 2025.11 우석대 대회 -->
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 12px; text-align: center;">2025.11</td>
