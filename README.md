@@ -62,9 +62,9 @@
 
 | Project Name | Description & Tech Stack |
 | :--- | :--- |
+| **[vibe-security-score](https://github.com/Nekonic/vibe-security-score)** | **코드게이트 부스 운영 · 바이브 코딩 보안 자동 채점기**<br>참가자의 프롬프트로 AI(Codex)가 생성한 Flask 앱을 격리 컨테이너에서 정적·동적 분석(실공격)으로 자동 채점하는 보안 코딩 챌린지 플랫폼입니다.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **[WCMS](https://github.com/Nekonic/WCMS)** | **실습실 PC 중앙 관리 시스템**<br>학교 실습실의 다수 PC를 웹 인터페이스를 통해 효율적으로 제어하고 관리하는 솔루션입니다.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  |
-| **[PI WOL](https://github.com/Nekonic/PI_WOL)** | **라즈베리파이 기반 웹 WOL 시스템**<br>Flask 웹 서버를 구축하여 외부망에서도 내부망의 PC를 원격 부팅할 수 있는 시스템입니다.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) |
-| **[Physics-Pi](https://github.com/Nekonic/Physics-Pi)** | **물리 엔진 기반 파이(π) 계산 시뮬레이션**<br>유니티의 물리 충돌 엔진을 활용하여 3Blue1Brown의 동영상을 시각적으로 구현했습니다.<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+| **[univ-lab-ops](https://github.com/Nekonic/univ-lab-ops)** | **대학 실습실 PC 배포 자동화**<br>Sysprep·Unattend 기반 Windows 11 표준 이미지(WIM)를 제작하고 실습실 PC 일괄 배포 및 소프트웨어 설치를 자동화했습니다.<br>![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white) |
 
 
 <br>
@@ -169,6 +169,7 @@
 - **Woosuk University** (2025 ~ Present)
   - 정보보안학과 CHFI(Computer Hacking Forensic Investigator) 과정 이수
   - KUCIS 활동: 안랩 기업견학, CTF, 네트워킹데이, 권역별 세미나 참여
+    - 2026 정보보호 온라인 실습교육 수료 (KISIA 주관, 7과정 21H): [침해사고 분석](/2026/kisia/수료증_제2026-KUCIS-0229.pdf) · [악성코드 제작 및 실습](/2026/kisia/수료증_제2026-KUCIS-0230.pdf) · [웹 시스템 취약점 분석 평가](/2026/kisia/수료증_제2026-KUCIS-0234.pdf) · [피싱메일과 악성파일](/2026/kisia/수료증_제2026-KUCIS-0235.pdf) · [개인정보](/2026/kisia/수료증_제2026-KUCIS-0236.pdf) · [랜섬웨어](/2026/kisia/수료증_제2026-KUCIS-0237.pdf) · [AI 기술 및 활용](/2026/kisia/수료증_제2026-KUCIS-0238.pdf)
   - 정보보안학과 2학년 재학
   - 정보보안 동아리 **APS** 부회장 (서버 구축 및 관리 담당)
 - **Honam Jeil High School** (2022 ~ 2024)
