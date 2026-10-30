@@ -168,10 +168,11 @@
 
 - **Woosuk University** (2025 ~ Present)
   - 정보보안학과 CHFI(Computer Hacking Forensic Investigator) 과정 이수
-  - KUCIS 활동: 안랩 기업견학, CTF, 네트워킹데이, 권역별 세미나 참여
+  - KUCIS 활동: 안랩 기업견학(2025), 국정원-윈스테크넷 기업견학(2026), CTF, 네트워킹데이, 권역별 세미나 참여
     - 2026 정보보호 온라인 실습교육 수료 (KISIA 주관, 7과정 21H): [침해사고 분석](/2026/kisia/수료증_제2026-KUCIS-0229.pdf) · [악성코드 제작 및 실습](/2026/kisia/수료증_제2026-KUCIS-0230.pdf) · [웹 시스템 취약점 분석 평가](/2026/kisia/수료증_제2026-KUCIS-0234.pdf) · [피싱메일과 악성파일](/2026/kisia/수료증_제2026-KUCIS-0235.pdf) · [개인정보](/2026/kisia/수료증_제2026-KUCIS-0236.pdf) · [랜섬웨어](/2026/kisia/수료증_제2026-KUCIS-0237.pdf) · [AI 기술 및 활용](/2026/kisia/수료증_제2026-KUCIS-0238.pdf)
   - 정보보안학과 2학년 재학
-  - 정보보안 동아리 **APS** 부회장 (서버 구축 및 관리 담당)
+  - 정보보안 동아리 **APS** 회장
+  - HSPACE KNIGHTS FRONTIER 3기
 - **Honam Jeil High School** (2022 ~ 2024)
   - 인공지능부 1기 기장
     - 동아리 웹서버 구축/운영, 스마트팜 프로젝트 리딩
